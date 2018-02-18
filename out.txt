@@ -1,0 +1,4 @@
+CacheHit count = 1727872
+CacheMiss count = 128
+CacheHit ratio = 99.9926 %
+CacheMiss ratio = 0.0074 %
